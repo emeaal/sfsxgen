@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 
 @Component({
     selector: 'xgen-generator',
-    templateUrl: '../templates/xgen.generator.template.html',
+    templateUrl: '../templates/lesson.preparer.template.html',
     styleUrls: []
 })
 export class XGenGeneratorComponent {
